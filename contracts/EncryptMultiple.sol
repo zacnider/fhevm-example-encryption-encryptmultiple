@@ -8,7 +8,6 @@ import {ZamaEthereumConfig} from "@fhevm/solidity/config/ZamaConfig.sol";
  * @title EncryptMultiple
  * @notice Encrypt and store multiple values using EntropyOracle
  * @dev Example demonstrating FHEVM encryption concepts
- * @chapter encryption
  */
 contract EncryptMultiple is ZamaEthereumConfig {
     // TODO: Add your contract implementation here
